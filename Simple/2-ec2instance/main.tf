@@ -10,8 +10,8 @@ terraform {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = ""
-  secret_key = ""
+  access_key = "AKIA6E4UYPOQLTGV4RUY"
+  secret_key = "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"
 }
 
 # Security group for EC2 instances
